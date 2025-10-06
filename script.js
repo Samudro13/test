@@ -622,7 +622,7 @@ function loadSpotifyPlaylist(playlistNumber) {
         },
         3: {
             // Ganti dengan playlist ketiga kamu
-            embedUrl: 'https://open.spotify.com/embed/playlist/4dlQ4JHE6abxv38aae2HL1?si=95730613199e4dad',
+            embedUrl: 'https://open.spotify.com/playlist/6VlIlcMzBnNgt6p7rcWtSk?si=fa2f6757b9ac4125',
             name: 'Happy Memories',
             description: 'Lagu-lagu yang mengingatkan kenangan indah 🌟'
         }
